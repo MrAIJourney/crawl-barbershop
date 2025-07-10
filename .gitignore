@@ -1,6 +1,8 @@
 # Custom .gitignore for Python projects
-barbershop_details.json
-config.json
+/barbershop_details.json
+/config.json
+/products_details.json
+/treatments_details.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

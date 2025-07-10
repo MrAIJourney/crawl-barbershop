@@ -1,3 +1,4 @@
 {
-    "location_url": "https://www.example.com/locations"
+    "location_url": "https://www.example.com/locations",
+    "treatments_url": "https://www.example.com/treatments"
 }
